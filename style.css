@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+dialog {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    max-width: 400px;
+    margin: auto;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-top: 10px;
+}
+
+input, select {
+    margin-bottom: 10px;
+}
+
+button {
+    margin-top: 10px;
+}
